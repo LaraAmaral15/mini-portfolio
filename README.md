@@ -14,3 +14,12 @@
 <h2>Desenvolvimento</h2>
 
 <p><strong>Dia 1:</strong> Desenvolvimento da estrutura em HTML;</p>
+<p><strong>Dia 2:</strong> Estilizando a página, detalhes:</p>
+<ul>
+  <li>Display flex</li>
+  <li>Especificidade</li>
+  <li>Transition</li>
+  <li>Criação da classe "selecionado" que será utilizada no JS depois</li>
+  <li>Display none e block</li>
+  <li>Personalização da barra de rolagem</li>
+</ul>
