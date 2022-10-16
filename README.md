@@ -25,10 +25,9 @@
   <li>Personalização da barra de rolagem</li>
 </ul>
 
-<p><strong>Dia 3:</strong> Desenvolvimento do JavaScrip, detalhes:</p>
+<p><strong>Dia 3:</strong> Desenvolvimento do JavaScript, detalhes:</p>
 <ul>
   <li>Função para quando o usuário clicar na aba será executado uma ação</li>
   <li>Função para selecionar a aba, nela adiciona e remove a classe "selecionado"</li>
   <li>Função para mostrar as informações da aba, seguindo o mesmo raciocínio de adicionar e remover a classe "selecionado"</li>
-  <li>Criação da classe "selecionado" que será utilizada no JS depois</li>
 </ul>
